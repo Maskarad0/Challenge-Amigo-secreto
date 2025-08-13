@@ -20,5 +20,5 @@ CSS - Estilização da interface
 # Como Executar o Projeto
 
 Clone o repositório:
-
+git clone 
 Abra o arquivo index.html no seu navegador web.
