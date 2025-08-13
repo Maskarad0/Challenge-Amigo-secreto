@@ -21,7 +21,7 @@ CSS - Estilização da interface
 
 Clone o repositório:
 
-git clone git@github.com:Maskarad0/Challenge-Amigo-secreto.git
+git clone https://github.com/Maskarad0/Challenge-Amigo-secreto.git
 
 
 Abra o arquivo index.html no seu navegador web.
