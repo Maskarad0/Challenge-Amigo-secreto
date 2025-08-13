@@ -2,6 +2,14 @@
 <img width="954" height="320" alt="amigo secreto" src="https://github.com/user-attachments/assets/89f902b5-2acd-4c4f-b525-cd27b4ac3749" />
 
 
+
+
+
+# Descrição do projeto
+Projeto desenvolvido na fase de seleção do programa ONE (Oracle Next Education) em parceria com a Alura.
+A aplicação permite realizar sorteios de Amigo Secreto de forma simples e rápida, trazendo praticidade e diversão para amigos, famílias e equipes.
+
+
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade 1`: Adicionar nomes à lista de participantes
 - `Funcionalidade 2`: Sortear um amigo secreto aleatoriamente
